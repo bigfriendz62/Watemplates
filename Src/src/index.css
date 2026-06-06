@@ -1,6 +1,0 @@
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html, body, #root { min-height: 100%; }
-body { background: #f0faf0; color: #1a2f1a; -webkit-font-smoothing: antialiased; font-family: 'Helvetica Neue', Arial, sans-serif; }
-::-webkit-scrollbar { width: 6px; }
-::-webkit-scrollbar-thumb { background: #25D366; border-radius: 3px; }
-input:focus { outline: none; }
